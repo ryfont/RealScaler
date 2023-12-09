@@ -12,6 +12,6 @@ sv_ttk
 
 #UTILS
 wheel
-pyinstaller==5.6.2
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib
 moviepy
